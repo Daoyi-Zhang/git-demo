@@ -9,5 +9,9 @@ public void emptyMethod(){
 }
 
 public void emptyMethod3(){
+}
+
+public void emptyMethod2(){
+
 
 }
