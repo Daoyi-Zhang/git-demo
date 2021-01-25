@@ -7,3 +7,7 @@ public class HelloWorld{
 public void emptyMethod(){
 
 }
+
+public void emptyMethod3(){
+
+}
